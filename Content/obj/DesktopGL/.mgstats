@@ -1,0 +1,23 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/pc/Desktop/FlappyBird/Content/background-day.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",7026,589909,0,1881054
+"C:/Users/pc/Desktop/FlappyBird/Content/base.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/ground.xnb","TextureProcessor","Texture2DContent",470,150613,0,0073764
+"C:/Users/pc/Desktop/FlappyBird/Content/Numbers/0.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/Numbers/0.xnb","TextureProcessor","Texture2DContent",339,3541,0,0033239
+"C:/Users/pc/Desktop/FlappyBird/Content/Numbers/1.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/Numbers/1.xnb","TextureProcessor","Texture2DContent",336,2389,0,003919
+"C:/Users/pc/Desktop/FlappyBird/Content/Numbers/2.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/Numbers/2.xnb","TextureProcessor","Texture2DContent",345,3541,0,0045317
+"C:/Users/pc/Desktop/FlappyBird/Content/Numbers/3.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/Numbers/3.xnb","TextureProcessor","Texture2DContent",339,3541,0,00553
+"C:/Users/pc/Desktop/FlappyBird/Content/Numbers/4.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/Numbers/4.xnb","TextureProcessor","Texture2DContent",346,3541,0,003785
+"C:/Users/pc/Desktop/FlappyBird/Content/Numbers/5.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/Numbers/5.xnb","TextureProcessor","Texture2DContent",345,3541,0,0038992
+"C:/Users/pc/Desktop/FlappyBird/Content/Numbers/6.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/Numbers/6.xnb","TextureProcessor","Texture2DContent",344,3541,0,005064
+"C:/Users/pc/Desktop/FlappyBird/Content/Numbers/7.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/Numbers/7.xnb","TextureProcessor","Texture2DContent",345,3541,0,0039717
+"C:/Users/pc/Desktop/FlappyBird/Content/Numbers/8.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/Numbers/8.xnb","TextureProcessor","Texture2DContent",338,3541,0,0038664
+"C:/Users/pc/Desktop/FlappyBird/Content/Numbers/9.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/Numbers/9.xnb","TextureProcessor","Texture2DContent",343,3541,0,0037807
+"C:/Users/pc/Desktop/FlappyBird/Content/pipe-green.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/pipe.xnb","TextureProcessor","Texture2DContent",2602,66645,0,0062212
+"C:/Users/pc/Desktop/FlappyBird/Content/pipeDown.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/pipeDown.xnb","TextureProcessor","Texture2DContent",2590,66645,0,0050294
+"C:/Users/pc/Desktop/FlappyBird/Content/player/yellowbird-downflap.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/player/playerDown.xnb","TextureProcessor","Texture2DContent",426,3349,0,00392
+"C:/Users/pc/Desktop/FlappyBird/Content/player/yellowbird-midflap.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/player/playerMid.xnb","TextureProcessor","Texture2DContent",425,3349,0,0057939
+"C:/Users/pc/Desktop/FlappyBird/Content/player/yellowbird-upflap.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/player/playerUp.xnb","TextureProcessor","Texture2DContent",427,3349,0,005511
+"C:/Users/pc/Desktop/FlappyBird/Content/Sounds/hit.wav","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/Sounds/hit.xnb","SoundEffectProcessor","SoundEffectContent",96590,96617,0,3501556
+"C:/Users/pc/Desktop/FlappyBird/Content/Sounds/point.wav","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/Sounds/point.xnb","SoundEffectProcessor","SoundEffectContent",177486,177513,0,2410732
+"C:/Users/pc/Desktop/FlappyBird/Content/Sounds/wing.wav","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/Sounds/wing.xnb","SoundEffectProcessor","SoundEffectContent",29902,29929,0,2573138
+"C:/Users/pc/Desktop/FlappyBird/Content/UI/gameover.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/UI/gameover.xnb","TextureProcessor","Texture2DContent",758,32341,0,0078466
+"C:/Users/pc/Desktop/FlappyBird/Content/UI/message.png","C:/Users/pc/Desktop/FlappyBird/Content/bin/DesktopGL/UI/message.xnb","TextureProcessor","Texture2DContent",1602,196597,0,0229993

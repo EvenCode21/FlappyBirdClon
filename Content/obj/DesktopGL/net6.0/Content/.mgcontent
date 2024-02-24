@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/background-day.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/base.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/Numbers/0.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/Numbers/1.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/Numbers/2.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/Numbers/3.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/Numbers/4.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/Numbers/5.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/Numbers/6.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/Numbers/7.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/Numbers/8.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/Numbers/9.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/pipe-green.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/pipeDown.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/player/yellowbird-downflap.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/player/yellowbird-midflap.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/player/yellowbird-upflap.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/Sounds/hit.wav</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/Sounds/point.wav</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/Sounds/wing.wav</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/UI/gameover.png</File>
+    <File>C:/Users/pc/Desktop/FlappyBird/Content/UI/message.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>background.png</File>
+    <File>ground.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>pipe.png</File>
+    <File xsi:nil="true" />
+    <File>player/playerDown.png</File>
+    <File>player/playerMid.png</File>
+    <File>player/playerUp.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

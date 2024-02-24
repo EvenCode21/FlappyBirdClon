@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\FlappyBird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F7AD5E-AE49-4941-B0FE-70414C193FA5}|FlappyBird.csproj|c:\\users\\pc\\desktop\\flappybird\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F7AD5E-AE49-4941-B0FE-70414C193FA5}|FlappyBird.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F7AD5E-AE49-4941-B0FE-70414C193FA5}|FlappyBird.csproj|c:\\users\\pc\\desktop\\flappybird\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F7AD5E-AE49-4941-B0FE-70414C193FA5}|FlappyBird.csproj|solutionrelative:level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F7AD5E-AE49-4941-B0FE-70414C193FA5}|FlappyBird.csproj|c:\\users\\pc\\desktop\\flappybird\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F7AD5E-AE49-4941-B0FE-70414C193FA5}|FlappyBird.csproj|solutionrelative:ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FlappyBird\\UI.cs",
+              "RelativeDocumentMoniker": "UI.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FlappyBird\\UI.cs",
+              "RelativeToolTip": "UI.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T18:23:33.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FlappyBird\\Level.cs",
+              "RelativeDocumentMoniker": "Level.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FlappyBird\\Level.cs",
+              "RelativeToolTip": "Level.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAIwK8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T01:50:26.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FlappyBird\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FlappyBird\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T01:45:27.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
